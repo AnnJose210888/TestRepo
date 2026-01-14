@@ -1,0 +1,3 @@
+[submodule "SurveilrSingerTest/jdk"]
+	path = SurveilrSingerTest/jdk
+	url = https://github.com/openjdk/jdk.git
